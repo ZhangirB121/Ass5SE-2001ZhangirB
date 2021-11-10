@@ -1,4 +1,4 @@
-package adapter;
+package facade;
 
 public class SpellFacade {
     private FireBall fireBall;
